@@ -5,9 +5,9 @@ A Terraform set of files and scritps are available for configuring and installin
 
 The diagram below shows all the components that are created and depicts the way they depend and relate to each other.
 
-.. image:: file:///Users/abernicchia/Develop/ab-cr-pgwatch2-collector-v1120/screenshots/pgwatch2_architecture_heroku.png
+.. image:: https://github.com/abernicchia-heroku/pgwatch2/blob/master/screenshots/pgwatch2_architecture_heroku.png
    :alt: pgwatch2 Heroku deployment architecture diagram
-   :target: file:///Users/abernicchia/Develop/ab-cr-pgwatch2-collector-v1120/screenshots/pgwatch2_architecture_heroku.png
+   :target: https://github.com/abernicchia-heroku/pgwatch2/blob/master/screenshots/pgwatch2_architecture_heroku.png
 
 All the apps use Docker images that are built locally and deployed to Heroku using the `Heroku Container Registry <https://devcenter.heroku.com/articles/container-registry-and-runtime/>`_. Apps can be created both in the Common Runtime and Private Spaces.
 
