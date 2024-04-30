@@ -1,7 +1,7 @@
 Heroku
 ==========
 
-A Terraform set of files and scritps are available for configuring and installing automatically pgwatch to Heroku, including creating all the components that can be used to quickly preview it (e.g. monitored DB sample, pgbench to simulate activity on the monitored db, logging add-ons ...). 
+A Terraform set of files and scripts are available for configuring and installing automatically pgwatch to Heroku, including creating all the components that can be used to quickly preview it (e.g. monitored DB sample, pgbench to simulate activity on the monitored db, logging add-ons ...). 
 
 The diagram below shows all the components that are created and depicts the way they depend and relate to each other.
 
